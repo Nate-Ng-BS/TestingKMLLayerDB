@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mastodon and Mammoths of Southern Ontario</name>
+    <description><![CDATA[Sites that approximate where mastodon and mammoth remains have been historically found in Southern Ontario. Sites are colour-coded to correspond to the counties or municipal regions in Ontario. For more information on each site, contact the Earth Sciences Museum at the University of Waterloo.<br>]]></description>
+    <Style id="icon-159-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/159-blue-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-159-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/159-blue-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-159">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-159-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-159-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-161-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/161-grn-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-161-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/161-grn-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-161">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-161-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-161-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-164-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/164-ltblu-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-164-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/164-ltblu-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-164">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-164-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-164-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-165-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/165-pink-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-165-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/165-pink-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-165">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-165-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-165-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-166-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/166-purple-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-166-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/166-purple-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-166">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-166-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-166-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-167-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/167-red-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-167-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/167-red-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-167">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-167-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-167-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-168-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-168-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-168">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-168-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-168-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-69-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/69-homegardenbusiness.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-69-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/69-homegardenbusiness.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-69">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-69-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-69-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Earth Sciences Museum</name>
+        <description><![CDATA[The Earth Sciences Museum at the University of Waterloo. <br>http://www.earth.uwaterloo.ca/services/museum]]></description>
+        <styleUrl>#icon-69</styleUrl>
+        <Point>
+          <coordinates>
+            -80.542188,43.471647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aldershot Mammoth</name>
+        <description>A mammoth tusk was found on December 7, 1953 in the gravel pit of J.Cook and Sons, Aldershot, Halton Region, approximate location at the intersection of Waterdown Road and Masonary Court. It was found by James Syrvet, 28 ft below the surface. It was identified by Dr. Armstrong, Dean of Arts and Science at McMaster University as a mammoth tusk, however there is no distinct way to tell between mammoth and mastodon tusks. The tusk is at the Joseph Brant Museum in Burlington.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.8561214,43.3095195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belleville Probiscidean</name>
+        <description><![CDATA[In the 1970's, a proboscidean was found during the excavation of a residential home in Belleville. The bones were identified as being a mammoth or a mastodon. The bones were reburied in the backyard of the residence.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -77.384331,44.168006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brampton Mammoth Tooth</name>
+        <description>The ROM has a cast of a juvenile mammoth tooth that was from the Brampton area. The location of the original is unknown.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.71817,43.680784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fergus monster</name>
+        <description>In 1839, while digging in his swamp for trees for fence posts, on the northwest edge of Fergus, Thomas Cruzon Allardice encountered a concentration of large bones. Allardice, a close friend of the co-founder of Fergus, James Webster, was educated at the University of Edinburgh and recognized they were from an elephant-like animal. After showing them around for a while, he became concerned about their fate and reburied them in the swamp. Based on what we now know of such finds, we can say this was probably a mammoth, rather than a mastodon.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -80.377847,43.705866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mariposa Tusk Fragment</name>
+        <description>A piece of tusk from a proboscidean found on the farm of Marmaduke King, sometime before 1963. The farm was located in Mariposa Township, Victoria County. The tusk disintegrated when it was found.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -78.862679,44.230533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moose River Mastodon Tooth</name>
+        <description>A mastodon tooth was recovered from the Moose River, just below the junction of the Missinabi and Mattagami Rivers in 1877. A Native American saw the jaw bone and chopped the tooth out.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -80.822807,51.129898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Otter Rapids Mastodon Tooth</name>
+        <description>A lower molar tooth of a mastodon was found in 1988, likely from the gravel pit at Mile 94 in Otter Rapids. The tooth is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.641808,50.184373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tara Mammoth Tooth</name>
+        <description><![CDATA[A mammoth tooth was found in a farmer's field in 1979.The tooth is now at the Bruce County Museum with castings at the Earth Sciences Museum and the ROM.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.152764,44.44375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Woodbridge Tusk Fragment & Molar]]></name>
+        <description>In 1962, a mammoth tusk fragment was found in a borrow pit in Woodbridge, for the construction of an embankment. In 1965, a partial molar of a mammoth was found in the same borrow pit. Due to the proximity of the two specimens, they are thought to be from the same individual.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.591667,43.763889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1891 Mastodon Site</name>
+        <description>In his memoirs, E.B. Jones records digging up a mastodon skeleton on September 14, 1891 but does not state the locality of the find. It is assumed it was somewhere in Kent County. The bones include a tusk, an upper jaw with all the teeth, one side of the lower jaw and other bone fragments.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.168121,42.384923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arnold Farm Mastodon</name>
+        <description>One mastodon tusk and one rib were found here in 1916. They were found 3 ft. below the surface, on the farm of Henry Arnold.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.902567,42.377902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>C. Toll Farm Mastodon</name>
+        <description>The partial skeleton of a mastodon was found on the Carman Toll farm in 1962. It was excavated at first by Naturalists from the Rondeau Provincial Park and then by Dr. Edmund from the ROM. This locality of this site is disputed.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.919089,42.384472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Craig Farm Mastodon Tooth</name>
+        <description><![CDATA[A Mastodon tooth was found on the farm of Frank Craig, a neighbour of the Arnold's of Troy. The exact locality of the farm is not known, however, it is listed as being in Howard Township, which suggests it being across the county line road.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.900747,42.379268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Debrouwer Farm Vertebrae</name>
+        <description>A juvenile thoracic vertebra and a sacral vertebrae were found on the farm of H. Debrouwer, in 1981. The farm was located on the Concession North of Talbot Trail, Howard Tp. Both pieces are in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.862736,42.378583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dresden Mastodon Tusk Fragment & Tooth]]></name>
+        <description>A tusk fragment was reported as being from Dresden, Municipality of Chatham-Kent, found before 1963.A separate report was made of a tooth being seen in the possession of a Dr. French, in Dresden.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.178371,42.588462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fairfield Museum</name>
+        <description>The Fairfield Museum has a collection of mastodon bones including one tooth, 3 vertebra and two large jaw fragments. The pieces were found in 1965, in Orford Township, however an exact locality is not known.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.86405,42.611191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fenton Mastodon</name>
+        <description>Three molar teeth and one lower tusk were found in the Fenton family home in 2006. It is unknown where they were from or when they were found.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.809864,42.509438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferguson Farm Mastodon</name>
+        <description>Mastodon bones were found at East Maxwell Creek on the farm of John Ferguson, in 1939 and again in 1954. The pieces are now in the ROM collection, with replicas of the tooth, tusk and vertebrae at the Wallaceburg Museum.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.286395,42.562998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gosnell Farm Mastodon</name>
+        <description>In 1889, a skeleton and tusks were found on the Gosnell Farm, lot 19/20, Concession 3, Harwich Township. The upper jaw and a tooth as well as photos of the site are at the Chatham-Kent Museum</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.081888,42.475051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Highgate Mastodon</name>
+        <description>Found in the summer of 1886, the Highgate Mastodon is the most complete mastodon skeleton ever found in Ontario. It is currently on display at the North Dakota Heritage Centre in Bismark, North Dakota.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.781488,42.528296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Bear Creek Mastodon</name>
+        <description>A mastodon tusk and other bones were collected in 1884, at a place called the Little Bear Creek drain, Lot 15, Concession 9, in Chatham Township, Kent County.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.23979,42.521142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Milne Farm Lower Jaw</name>
+        <description><![CDATA[A mastodon's lower jaw was found on the Farm of William Milne, Lot 9, Concession 3, Romney Township.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.452351,42.114197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitton Mastodon</name>
+        <description>Mastodon teeth and bones were found on the farm owned by E. Mitton in 1900. The locality is now the Ridgetown Campus of the University of Guelph.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.880138,42.444389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morpeth Mastodon Tooth</name>
+        <description>A mastodon tooth was found near Morpeth in 1858.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.842868,42.392987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muirkirk Mammoth</name>
+        <description>A mammoth skeleton was found 1 to 1.5 miles NE of Muirkirk in 1895. The bones are currently at the Canadian Museum of Nature.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.749847,42.530251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perry Farm Mastodon</name>
+        <description><![CDATA[Found in the 1960's was a jaw and teeth of a mastodon. The specimens were left in the field and never recovered. However dating on plant material suggest the mastodon is from 11,869 +/- 170 B.P.Not an exact location.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.26377,42.591861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ridley Farm Mastodon</name>
+        <description>In 1880, E.B. Jones and R.C. Burt dug up a jawbone with tooth, 13 ribs and 7 vertebrae on the John Ridley Farm, Concession 5, Lot 24, Harwich Township. It was the same farm as the Arnold mastodon finds.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.903934,42.378773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rondeau Park Mammoth Tooth</name>
+        <description>A mammoth tooth found on the beach at Rondeau Provincial Park.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.854238,42.254048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scane Farm Mastodon</name>
+        <description>In 1880, a mastodon jaw bone and a tusk fragment were found on the farm of James Scane, 7th Concession, Howard Township. The pieces are now on display at the Chatham-Kent Museum.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.937838,42.455318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thamesville Mastodon Bones</name>
+        <description>Found in the Sterling Construction Gravel Pit, 1.8 miles ENE of Thamesville in Camden Tp. Bones include skull fragments with tooth in the lower jaw. The specimens are in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -81.945534,42.560571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dufferin Museum and Archives</name>
+        <description>The Dufferin Museum and Archives has a rib bone from the Shelburne Mammoth found just outside Bowling Green in 1888.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -80.026221,44.116803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelburne Mammoth</name>
+        <description>Also known as the Amaranth Mammoth. This mammoth skeleton was found in 1888 and recovered in 1889 by John Jelly, who later went on to excavate the Highgate Mastodon.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -80.246801,43.940243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Greenwood Tusk</name>
+        <description>A tusk of a mammoth or mastodon was found in the Sam Greenwood Gravel Pit in 2005.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -80.166742,43.852824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bernard Farm Mastodon</name>
+        <description>1) In 1854, mastodon ribs, tusks, vertebrae and teeth were found on the farm of Issac Bernard near St. Thomas.2) In 1856, a mastodon jaw with teeth and lower tusks were found on the same farm.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.188921,42.779431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belmont Mastodon</name>
+        <description>In an article dated to November 17, 1911 from the Toronto Globe, two or more mastodon skeletons are reported to have been found in the Belmont area. No further information about the skeletons is known.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.088205,42.884143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horkay Mastodon</name>
+        <description>A mastodon skeleton was found on the farm of Mr. A. Horkay sometime between 1930 and 1963. The remains were kept in the possession of Mr. Horkay and it is unknown how complete the skeleton is.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.454432,42.641739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Creek Mastodon Tooth</name>
+        <description>A young mastodon tooth was found in the Little Creek bed, Orchard Beach, Port Stanley in March 1964. The tooth was found by Bill Wyett and brought to the Geology Department at UWO.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.203789,42.665086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MacGregor Farm Mastodon</name>
+        <description>Mastodon teeth and bones were found north of Shedden on the farm of J. MacGregor before 1963. The specimens were given to the Elgin Historical Society.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.346384,42.747065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MacIntire Mastodon Molar</name>
+        <description>In 1929, a lower 3rd right molar of a mastodon was found on the farm of D. MacIntire, near Dutton.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.501275,42.66444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MacIntire Mastodon Molar</name>
+        <description>Part of a mastodon tooth was found near Dutton before 1930. This record is very similar to the molar found on the farm of D.MacIntire and occurred around the same time.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.498359,42.658924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Teeth Fragments</name>
+        <description>Mastodon teeth fragments were found in Malahide Township before 1930. The exact locality of the find is unknown. The teeth went to the Redpath Museum in Montreal.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -80.931905,42.807878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grovesend Mastodon</name>
+        <description>A mastodon tooth and bone fragments including a tusk were collected in a gully on Concession 1, Lot 27, Malahide Township.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -80.910005,42.674138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Tusk</name>
+        <description>A mastodon tusk was found on a farm between Rodney and West Lorne in 1968. The tusk was found while digging a drainage ditch on the property. The tusk is now on display at the Earth Sciences Museum at the University of Waterloo.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.643963,42.577365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Tusk Fragment</name>
+        <description>A mastodon tusk fragment was found on the Lake Erie Bluff approximately 2.4 km SW of Port Talbot. The fragment is 30 cm long and was found in 1958.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.376021,42.64496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rodney Mastodon</name>
+        <description>A mastodon skeleton was found on the farm of D. McColl in the summer of 1946, south of Rodney, ON. The site was investigated by C.M. Sternberg of the Royal Ontario Museum and the specimens were taken to the ROM. Pieces found on the site include both upper and lower tusks, three molar teeth, larger limb bones and bone fragments.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.724626,42.543817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shedden Mastodon</name>
+        <description>Mastodon teeth and part of a skeleton were found 2 miles north of Shedden, sometime before 1930. The bones were collected by a W.L. MacKenzie of Quill Lake, Saskatchewan and brought back to that province.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.368596,42.763677,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Lorne Mastodon</name>
+        <description>A tooth and a vertebra were found in a swamp near West Lorne before 1950.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -81.607085,42.605578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Five Mastodon Teeth</name>
+        <description>Five mastodon teeth were found in Gosfield North, on Lot 21, Concession 7 sometime before 1963. They were collected by C. Jeffrey of Ruthven, ON.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.663816,42.112105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blytheswood Mastodon Bone Fragments</name>
+        <description>The bones were found in 1897 and excavated by Dr. H.M. Ami. The exact locality was not given. The remains were fragmentary.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.594973,42.122395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Verbeke Mastodon Teeth</name>
+        <description><![CDATA[In 1978, a tooth was uncovered in the field of Roger and Larry Verbeke's farm in Leamington, ON. It was the fourth tooth found on the farm, dug up by a potato digging machine. The other three teeth had been donated to the Point Pelee Provincial Park and the University of Windsor. The fourth tooth was being kept by the Verbeke family. The ROM has casts of two teeth from this site and a vertebrae.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -82.614512,42.085101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunnville Mastodon Pieces</name>
+        <description>In 1869, mastodon bones were found 2.4 km north of Dunnville, Haldimand County. The specimens included several well preserved teeth, a right ramus of the lower jaw, a thigh bone and several bones of the legs and feet.</description>
+        <styleUrl>#icon-167</styleUrl>
+        <Point>
+          <coordinates>
+            -79.613686,42.926606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Halidmand Mastodon Pieces</name>
+        <description>Mastodon pieces were found in Halimand County before 1930. These pieces include two tusks, teeth and other bones. The exact locality of the find is unknown and the bones were in the possession of S.W. Howard of Hagersville, ON as of 1930.</description>
+        <styleUrl>#icon-167</styleUrl>
+        <Point>
+          <coordinates>
+            -80.051617,42.962295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diltz Road Proboscidean</name>
+        <description><![CDATA[What is described as a "more or less complete skeleton" of a proboscidean was found on Diltz road, North of Dunville. It was reported in the Toronto Globe, November 18, 1911. Due to the general area of the find, the specimen was likely a Mastodon.]]></description>
+        <styleUrl>#icon-167</styleUrl>
+        <Point>
+          <coordinates>
+            -79.599858,42.933331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burlington Heights 1848</name>
+        <description>During the excavation of the Desjardins Canal mammoth bones were found. These included rib fragments, part of a femur and a scapula. These pieces are now at the Museum of Nature, Ottawa.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.892664,43.283048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burlington Heights 1852</name>
+        <description>More mammoth specimens were found with the excavation of the Desjardins Canal in 1852. These included a rib, part of a mandible with a symphisis and molar and a right mandible. These pieces are identified as being from a Columbian Mammoth (Mammuthus cf columbi). These pieces are in the Museum of Nature, Ottawa.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.892964,43.284172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burlington Heights 1876</name>
+        <description>Another set of mammoth specimens were found in 1876 with the excavation of the Desjardins Canal. There was one tusk and one vertebrae found. Dr. J.W. Spencer identified these pieces as being mammoth but that is unconfirmed.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.893587,43.283813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hunter Street Tunnel Fragments</name>
+        <description>Bone fragments of a proboscidean were found with the excavation of the Hunter Street Tunnel in 1896 in Hamilton.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.880293,43.255899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Tooth</name>
+        <description>A Woolly Mammoth tooth was found near the Desjardins Canal in Hamilton. There is no date associated with the find, so it is unclear if it is related to the other Desjardins Canal Mammoths. The tooth was donated to the ROM collection by E.M. Proctor.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.892771,43.283516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Tusk</name>
+        <description>A mammoth tusk was found in 1904 in a gravel cut for the Grand Trunk Railway. The tusk measures 11 feet long and is currently at the Redpath Museum in Montreal.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.891741,43.280502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Undetermined Bones</name>
+        <description>There are five separate records of proboscidean bones being found in the Hamilton area before 1930. Two of them were inter-glacial; two were glacial in origin and one was unknown.</description>
+        <styleUrl>#icon-164</styleUrl>
+        <Point>
+          <coordinates>
+            -79.868115,43.257291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walker Mastodon Teeth</name>
+        <description>Two teeth and bone fragments were found on the farm of Clare Walker, concession 9, Dawn-Euphemia Township, Lambton County.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -81.875611,42.716428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Courtright Mastodon Tooth</name>
+        <description>A small mastodon tooth was donated to the ROM by A.V. Penfound of Courtright. It is the second upper right molar and is now in the ROM collection.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -82.473335,42.815362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Family Mastodon</name>
+        <description>Thomas Little found mastodon bones in about 1890. The bones include a skull 2 tusks, rib bones and many smaller bones. The bones are on display at the Moore Museum in Mooretown. The family kept the mastodon teeth to give away as wedding presents.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -82.372456,42.787437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point Edward Mastodon Tooth</name>
+        <description>In May 1870, a mastodon tooth was found in Point Edward. The tooth is the upper right second molar and is now in the ROM collection.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -82.412567,42.999877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sarnia Mastodon Ulna</name>
+        <description>A left ulna bone of a mastodon was found near Sarnia. The bone is now in the ROM.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -82.395744,42.977777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3 Mastodon Teeth</name>
+        <description>In 1869, J.W. Dawson published an article which said that the provincial museum had three mastodon teeth that had been found around London.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.252915,42.981911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Appin Baby Mastodon Teeth</name>
+        <description>Two baby mastodon teeth were found on the farm of Vernon Giberson in 1985. The teeth were found when ploughing his field. The two teeth are the upper right pre-molar and the lower left pre-molar. Both teeth are in the ROM collection.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.649704,42.79792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brown Mastodon Tooth</name>
+        <description>A mastodon tooth was found on the farm of J. Brown, about 3.5 km south of Mt. Brydges.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.500144,42.871718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Caradoc Mastodon Jaw</name>
+        <description>In 1908, a lower jaw of a mastodon was found by H.G. Forbes. It was found in ancient deltaic sand deposits of the Thames River in Lake Whittelsey. The jaw bone was given to the University of Western Ontario.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.432721,42.869347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ireland Farm Tusks</name>
+        <description>A pair of proboscidean tusks were found by the Ireland family in 1923. The tusks were found while digging a ditch on the Glover farm, 3 km North of Mt. Brydges.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.505337,42.937449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proboscidean Bones</name>
+        <description><![CDATA[In the 1800's, an excavation for the building of a water tower beside the CPR line, revealed proboscidean bones. What type of bones and how many were found is unknown.]]></description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.520365,42.917047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Skull with Teeth</name>
+        <description>A mastodon skull was found near the present ditch in about 1926. The skull was in good condition and is on display at the Middlesex College at UWO.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.554755,42.944775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Tooth Fragment</name>
+        <description>A mastodon tooth fragment was found in a bog area by a kettle around 1970.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.585749,42.881987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosa Mastodon Tooth</name>
+        <description>In 1970, a mastodon tooth was found in the field of the Markham family farm, Concession 8, Lot 3, Mosa Township. The tooth was found approximately 300 m south of the barn in a low, wet spot.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.768588,42.731272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pierce Farm Mastodon Teeth</name>
+        <description>4 mastodon teeth were found on the farm of Stewart Pierce, Concession 12, Lot 9, Metcalfe Township. All four were found alongside a  ditch. All the teeth were quite young and small. The first two were found on two separate occasions between 1984-1988, the other two were found after that.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.670773,42.864358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tusk Fragment</name>
+        <description>A proboscidean tusk fragment was found in the Thames Valley in Delaware Township. It was collected by Dr. Dreimanis before 1930 and went to UWO.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.420615,42.908014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>W. Jones Farm Mastodon Skull</name>
+        <description>A mastodon skull with teeth and part of a skeleton was found on the farm of W. Jones in Delaware Township. The bones would have been found before 1930 and they were collected by Prof. A.D. Robertson and taken to UWO.</description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.379167,42.839543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welke Farm Mastodon</name>
+        <description><![CDATA[A mastodon tusk and a skull fragment were found on R. Welke's farm sometime before 1959.]]></description>
+        <styleUrl>#icon-166</styleUrl>
+        <Point>
+          <coordinates>
+            -81.583074,42.873517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goat Island Mastodon Tooth</name>
+        <description>A mastodon tooth was reported as being found opposite of Goat Island, Niagara, New York in 1859. However it is not clear if it was found on the Canadian or American bank of the Niagara river.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.071393,43.078841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larkin Gravel Mammoth Tusk and Teeth</name>
+        <description>In 1937, a mammoth tusk and teeth were found in the Larkin gravel pit, 3.2 km below Queenston Heights. The teeth are now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.086725,43.150523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Tooth</name>
+        <description>A mammoth tooth was found June 3, 1944 in St. Catharines and donated to the ROM by R.J. Mason. The tooth is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.262238,43.159112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proboscidean Tusk</name>
+        <description>A tusk of a proboscidean was reported in a newspaper as being found in Niagara-ON-the Lake. It was found in a gravel pit 6 ft. below the surface. The tusk was found sometime before 1963.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.070749,43.25453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Smithville Mastodon Teeth</name>
+        <description>A Toronto Globe article from November 17, 1911 reports of one or more teeth being found near Smithville, Lincoln County.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.547195,43.099479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Catharines Mammoth Tooth</name>
+        <description>In 1866, a mammoth tooth was dug up in St. Catharines, under the Grand Opera House, for the construction of a sewer line to Queen Street.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.247355,43.156434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stayzer Farm Mastodon</name>
+        <description>A tooth was initially found on the farm of Harold Stayzer in October of 1963. The tooth was identified by the ROM as a mastodon tooth and subsequent site investigation revealed two tusks, a rib, a heel bone and the top of a mastodon skull.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.478817,43.002735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wellandport & St. Catharines]]></name>
+        <description>A mastodon lower jaw bone was reported in 1923 as being from St. Catharines and Wellandport. A cast of the jaw was sent to Rochester University, New York.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.47874,43.005643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Welland Mastodon Skeleton</name>
+        <description>In 1911, a mastodon skeleton was found on Forks Road in Welland County. The bones are now on display in the ROM.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.341545,42.945114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woolly Mammoth Tooth</name>
+        <description>The second molar tooth of a Woolly Mammoth was found in a gravel pit, near St. Catharines in 1912. It was donated to the ROM by A.L. MacPherson.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.254341,43.148593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Franklin Mastodon Molar</name>
+        <description><![CDATA[Fragments of a mastodon molar were found on the farm of Alex Franklin, in the 1940's. The fragments were found along with Indian relics and are now on display at the Eva Brook Donly Museum.]]></description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.474017,42.628953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fuller Farm Mastodon</name>
+        <description><![CDATA[In 1876, two mastodon teeth, a few tarsals and a femur were found on George Fuller's farm in Houghton Township, Concession 1, Lot 17.]]></description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.675659,42.662942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marburg Mastodon Skeleton</name>
+        <description>In 1897, Charles Challand found a mastodon skeleton including a large skull, 25 ribs and two tusks on his farm. Found on the west half of lot 15, concession 5, Woodhouse Township, Norfolk County.</description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.191743,42.839234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Norfolk Mastodon Molar</name>
+        <description>A newspaper article from the Simcoe Reformer on September 6, 1923 reported that a mastodon tooth was found in Norfolk County.</description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.578828,42.711378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toonen Mastodon Pieces</name>
+        <description>Three mastodon teeth were found by John Toonen, near Langton, around 1987. Three tooth fragments from the site are in the ROM collection, the teeth are in the possession of John Toonen.</description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.547295,42.770455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterford Tusk</name>
+        <description>A tusk fragment, assumed to be from a mastodon, was found in a Waterford gravel pit September 28, 1946.</description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.289449,42.932343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windemute Farm Mastodon Mandible</name>
+        <description>In 1905, a mastodon mandible and several molars were found on the farm of T.B. Wintemute, Concession 10, Lot 10, Windham Township, Norfolk County.</description>
+        <styleUrl>#icon-165</styleUrl>
+        <Point>
+          <coordinates>
+            -80.398711,42.882643,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>A.R. Martin Mastodon</name>
+        <description>Five mastodon teeth and a tusk were found in a peat bog on the farm of A.R. Martin, 5 miles east of Woodstock. The specimens were found before 1930 and were kept by Mr. A.R. Martin.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.654102,43.130482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grumble Mastodon</name>
+        <description>In 1871, a mastodon skeleton was found on the farm of G.Grumble, 5 miles east of Woodstock. The bones were purchased by the Geological Survey of Canada in 1887 and are now held in the Canadian Museum of Nature, Ottawa.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.655974,43.136992,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carter Mastodon Pieces</name>
+        <description>Parts of a mastodon skeleton were collected by Amos Carter, sometime before 1930. The pieces were found at Carter Lake Swamp in Oxford County, however this locality is not displayed on maps.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.721442,43.184007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ingersoll Mastodon</name>
+        <description>A mastodon was collected from 4 miles east of Ingersoll, ON before 1963. The specimen was collected by Dr. A. Dreimanis of UWO and became part of the UWO collection.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.802385,43.039005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bond Mastodon</name>
+        <description><![CDATA[In the 1950's, a mastodon skull and several bones were found on the farm of Orvil J. Bond, in West Oxford. The exact locality of the farm is not known. Pieces from this mastodon are on display at the Beachville Museum; others are in the collection of the Woodstock Museum.]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.775948,43.056095,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Farr Mastodon Tooth</name>
+        <description>A 9 year old boy, names William Farr found a mastodon tooth in Oxford County. The exact locality of the find is not know. The tooth is on display at the Woodstock Museum.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.757403,43.129409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Femur Fragment</name>
+        <description>The distal epiphysis of a left femur of a woolly mammoth was found in Norwich. The bone now is in the ROM collection.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.597506,42.98776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Left Radius</name>
+        <description>The proximal end of a left radius of a mastodon was found in the North of Norwich Township, in July of 1967. The bone is now in the ROM collection.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.656128,43.116022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proboscidean tusk frag.</name>
+        <description>Rev. J.A. Davies donated a mastodon tusk fragment to the Woodstock Museum. Where the tusk came from is unknown.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.75737,43.129316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Burgessville Mastodon</name>
+        <description>Several pieces of a young mastodon were found near Burgessville. They were examined by representatives from the ROM and are now at the Norwich and District Historical Society.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.653353,43.023773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tusk Fragment</name>
+        <description>A tusk fragment was found in a gravel pit in 1972 by Raymond Freeman. It is undetermined whether the tusk is from a mastodon or mammoth.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -80.933638,43.018981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rostock Mammoth</name>
+        <description>Mammoth bones were found on the farm of Terence Poole in 1981. Carbon dating places the mammoth at being 10, 790 +/- 150 B.P.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -80.91941,43.52161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Tooth</name>
+        <description>The Stratford Perth Museum has a casting of a mammoth tooth that was likely found in Perth County by amateur collector Hugh Nichol. The placemark is on the Stratford Perth Museum.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -80.994302,43.376878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dill Mammoth</name>
+        <description>A mammoth tibia was found on the Dill farm in October of 1992. The tibia is now on display at the Earth Sciences Museum at the University of Waterloo.</description>
+        <styleUrl>#icon-161</styleUrl>
+        <Point>
+          <coordinates>
+            -81.014557,43.443198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adjala Mammoth</name>
+        <description>A mammoth skeleton was found on the west half of lot 14, Concession 6 in Adjala township in 1887. Most of the skeleton went to a college in Pennsylvania, and is now lost. A tooth is at the Elmira College in New York. A thigh bone was at a museum in Shelburne however the museum had a fire and the bone likely did not survive.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -79.881221,44.039823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beeton Tusk Fragment</name>
+        <description><![CDATA[A proboscidea tusk fragment was found by Mr. Ernie Letts, in a gravel pit in New Tecumseh Township, likely in the 1950's.]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -79.781727,44.079521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Tooth</name>
+        <description>A mammoth molar tooth was found in Adjala Tp. It is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.933777,44.125549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Springwater Tusk</name>
+        <description>In 2008, a tusk fragment was found in a gravel pit in Springwater Township. The fragment was approximately 2.5 feet long and is now at the Simcoe County Museum.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -79.72848,44.433985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tottenham Tusk Fragment</name>
+        <description>A tusk fragment was found 2001, in a gravel load from the Oak Ridges Moraine on a farm just east of Tottenham, New Tecumseh, ON.</description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -79.773536,44.016152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Don River Mammoth Tooth</name>
+        <description>In 1894, a mammoth tooth was found 8 miles (12.8 km) North of Toronto by the Don River.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.377756,43.786381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Etobicoke Mastodon Tusk</name>
+        <description>A tusk fragment was found at a construction site in Etobicoke in 1973. The fragment is 18 niches long and 7 inches thick. It was found approx. 30 feet underground. The tusk is assigned to a mastodon although it could be mammoth.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.523506,43.644274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fragments of a Tusk</name>
+        <description><![CDATA[Fragments of a tusk were found at Mr. Adare's sandpit in the Don Valley, before 1901. The fragments were found in glacial beds.]]></description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.363504,43.689518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mammoth Tusk Fragment</name>
+        <description>A Woolly Mammoth tusk fragment approx. 60 cm long was found on Shaw St. The tusk is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.4239,43.664146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mastodon Tusk Fragment</name>
+        <description>A Mastodon tusk fragment measuring 23.5 cm long, was found on Shaw Street. It was donated to the ROM by A.P. Coleman.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.424372,43.665202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Probiscidean Bones</name>
+        <description>There are two records of post-glacial probiscidean bones from the Toronto area. One is from Toronto and one is from West Toronto. These bones were found before 1930.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.400325,43.666439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proboscidea Pelvis Bone</name>
+        <description>A partial left pelvis bone was found at the Shaw Street pit in Toronto. The bone is in the collection at the ROM.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.423385,43.662873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proboscidean Tusk Fragment</name>
+        <description>A tusk fragment about 60 to 70 cm long was found in NE Toronto. It is possibly a Mastodon tusk. The tusk fragment is in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.351845,43.785223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Proboscidean Ulna Bone</name>
+        <description>An ulna of a mammoth or mastodon was found under the sewer line at the intersection of Bathurst and Dupont Streets, sometime before 1901.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.414369,43.673138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toronto Mammoth Tooth</name>
+        <description>In 1863, a mammoth tooth was reported to have being found somewhere in Toronto.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.37441,43.696871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toronto Tusk Fragments</name>
+        <description>Two seperate finds of tusk fragments occurred before 1930. Both specimens were found somewhere in Toronto and both were sent to the Royal Ontario Museum. These tusk fragments were associated as with being mammoth although they could have been mastodon.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.37441,43.696871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Two Mastodon Teeth</name>
+        <description>Two mastodon teeth were found in the Toronto area sometime before 1895. One was found by the Don River and the other was found 2-3 miles east of the city in a sandpit.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.315727,43.664859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarborough Bluffs Mastodon Tooth</name>
+        <description>A mastodon tooth was found on the beach of Lake Ontario at Scarborough Bluffs. The tooth was badly worn and is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.232368,43.71144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scarlett Road Mammoth Tooth</name>
+        <description>A lower left third molar of a mammoth was found on Scarlett Rd in Toronto. The tooth is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.511361,43.683919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Hill Mammoth Tooth</name>
+        <description>The upper right third molar of a Woolly Mammoth was found 2 miles north of West Hill in Toronto. The tooth is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.213314,43.798854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>West Toronto Mammoth Tooth</name>
+        <description>A Woolly Mammoth tooth was found in West Toronto. The tooth was a lower right third molar. The tooth is in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.488427,43.669117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beach Avenue Mammoth Tooth</name>
+        <description>A complete lower right third molar of a Woolly Mammoth was found in the Beach Avenue gravel pit in East Toronto. The tooth is now in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.288083,43.673793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yorkville Mammoth Tooth</name>
+        <description>A complete upper first molar of a mammoth was found in the Bloor and Sherbourne area of Toronto. The tooth is in the ROM collection.</description>
+        <styleUrl>#icon-159</styleUrl>
+        <Point>
+          <coordinates>
+            -79.377122,43.672342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
